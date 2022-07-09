@@ -1,7 +1,6 @@
 # sruthi
 ##CRUD 
 #output of bank transactions
-PS C:\Users\SRUTHI\OneDrive\Desktop\repository> & e:/Users/SRUTHI/anaconda3/python.exe c:/Users/SRUTHI/OneDrive/Desktop/repository/sruthi/bank.py
 enter 1 to insert Bank details:
 enter 2 to display Bank details:
 enter 3 to update Bank details:
@@ -27,8 +26,7 @@ enter withdraw amount:40
 maitri
 salary
 40
-[<__main__.Account object at 0x000001D22AD74FA0>]
-[<__main__.Account object at 0x000001D22AD74FA0>]
+
 enter 1 to insert Bank details:
 enter 2 to display Bank details:
 enter 3 to update Bank details:
@@ -44,7 +42,7 @@ enter balance amount600
 sruthi
 savings
 600
-[<__main__.Account object at 0x000001D22AD74FA0>, <__main__.Account object at 0x000001D22AD56250>]
+
 enter 1 to insert Bank details:
 enter 2 to display Bank details:
 enter 3 to update Bank details:
@@ -53,7 +51,7 @@ enter 5 to exit
 4
 enter the withdraw amount:450
 enter the account number to delete the details:65
-[<__main__.Account object at 0x000001D22AD74FA0>, <__main__.Account object at 0x000001D22AD56250>]
+
 enter 1 to insert Bank details:
 enter 2 to display Bank details:
 enter 3 to update Bank details:
